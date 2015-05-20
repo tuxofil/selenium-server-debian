@@ -1,0 +1,5 @@
+selenium-server (2.45.0-1) unstable; urgency=low
+
+  * Initial release for Ubuntu 14.04.
+
+ -- Aleksey Morarash <aleksey.morarash@gmail.com>  Wed, 20 May 2015 16:38:00 +0300

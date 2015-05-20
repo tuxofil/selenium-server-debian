@@ -1,0 +1,8 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: selenium-server
+
+Files: *
+Copyright: 2011-2015, SeleniumHQ
+License: Apache License v.2.0
+ Full text of the license can be found in a LICENSE
+ file in the repository root directory.
